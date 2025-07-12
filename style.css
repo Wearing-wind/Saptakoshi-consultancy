@@ -9,10 +9,10 @@ body {
 
 /* Header & Nav */
 header {
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("Site plan.jpg"); /* Replace with your image */
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("Site\ plan.webp"); /* Replace with your image */
     background-size: cover;
     background-position: center;
-    color: white;
+    color: #fffffff6;
     padding: 200px 0;
     position: relative;
     overflow: hidden;
