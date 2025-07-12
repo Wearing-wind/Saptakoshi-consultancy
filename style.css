@@ -3,13 +3,13 @@ body {
     margin: 0;
     line-height: 1.7;
     color: #333;
-    background: #61f2b8;
+    background: #08f6be;
     overflow-x: hidden;
 }
 
 /* Header & Nav */
 header {
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("Site\ plan.webp"); /* Replace with your image */
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("Site\ .webp"); /* Replace with your image */
     background-size: cover;
     background-position: center;
     color: #fffffff6;
@@ -23,7 +23,7 @@ nav {
     top: 0;
     left: 0;
     right: 0;
-    background-color: rgba(183, 9, 214, 0.7);
+    background-color: rgba(216, 25, 249, 0.593);
     z-index: 100;
     padding: 15px;
     display: flex;
